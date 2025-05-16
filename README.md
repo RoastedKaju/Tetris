@@ -36,11 +36,11 @@ OR
 ## 📁 Directory Structure
 
 Tetris/  
-|- Source/             # Game source files  
-|- ThirdParty/SFML/    # SFML library  
-|- premake5.lua        # Premake build script  
-|- Vendor/Premake      # Premake executeable  
-|- Binaries/           # Output binaries  
-|- README.md           # You're here!  
+|- Source/				# Game source files  
+|- ThirdParty/SFML/		# SFML library  
+|- premake5.lua			# Premake build script  
+|- Vendor/Premake		# Premake executeable  
+|- Binaries/			# Output binaries  
+|- README.md			# You're here!  
 
 
